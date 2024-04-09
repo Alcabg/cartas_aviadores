@@ -1,0 +1,156 @@
+
+{
+  "pilots": [
+  {
+  "id": 1,
+  "nombre_aviador": "Manfred von Richthofen",
+  "victorias": 80,
+  "nacionalidad": "Alemana",
+  "fecha_nacimiento": "02/05/1892",
+  "fecha_muerte": "21/04/1918",
+  "avion_pilotado": "Fokker Dr.I",
+  "img":"src/assets/manfred.jpg"
+  },
+  {
+  "id": 2,
+  "nombre_aviador": "René Fonck",
+  "victorias": 75,
+  "nacionalidad": "Francesa",
+  "fecha_nacimiento": "27/03/1894",
+  "fecha_muerte": "18/06/1953",
+  "avion_pilotado": "Spad XIII",
+  "img":"src/assets/fonck.jpg"
+  },
+  {
+  "id": 3,
+  "nombre_aviador": "Edward Mannock",
+  "victorias": 73,
+  "nacionalidad": "Británica",
+  "fecha_nacimiento": "17/05/1887",
+  "fecha_muerte": "26/07/1918",
+  "avion_pilotado": "Royal Aircraft Factory SE.5a",
+  "img":"src/assets/mannock.jpg"
+  },
+  {
+  "id": 4,
+  "nombre_aviador": "Georges Guynemer",
+  "victorias": 53,
+  "nacionalidad": "Francesa",
+  "fecha_nacimiento": "24/12/1894",
+  "fecha_muerte": "11/09/1917",
+  "avion_pilotado": "Spad VII",
+  "img":"src/assets/guynemer.jpg"
+  },
+  {
+  "id": 5,
+  "nombre_aviador": "Werner Voss",
+  "victorias": 48,
+  "nacionalidad": "Alemana",
+  "fecha_nacimiento": "13/04/1897",
+  "fecha_muerte": "23/09/1917",
+  "avion_pilotado": "Fokker Dr.I",
+  "img":"src/assets/werner.jpg"
+  },
+  {
+  "id": 6,
+  "nombre_aviador": "Billy Bishop",
+  "victorias": 72,
+  "nacionalidad": "Canadiense",
+  "fecha_nacimiento": "08/02/1894",
+  "fecha_muerte": "11/09/1956",
+  "avion_pilotado": "Nieuport 17",
+  "img":"src/assets/bishop.jpg"
+  },
+  {
+  "id": 7,
+  "nombre_aviador": "Albert Ball",
+  "victorias": 44,
+  "nacionalidad": "Británica",
+  "fecha_nacimiento": "14/08/1896",
+  "fecha_muerte": "07/05/1917",
+  "avion_pilotado": "Nieuport 17",
+  "img":"src/assets/ball.jpg"
+  },
+  {
+  "id": 8,
+  "nombre_aviador": "Oswald Boelcke",
+  "victorias": 40,
+  "nacionalidad": "Alemana",
+  "fecha_nacimiento": "19/05/1891",
+  "fecha_muerte": "28/10/1916",
+  "avion_pilotado": "Fokker Eindecker",
+  "img":"src/assets/boelcke.jpg"
+  },
+  {
+  "id": 9,
+  "nombre_aviador": "Max Immelmann",
+  "victorias": 15,
+  "nacionalidad": "Alemana",
+  "fecha_nacimiento": "21/09/1890",
+  "fecha_muerte": "18/06/1916",
+  "avion_pilotado": "Fokker Eindecker",
+  "img":"src/assets/immelmann.jpg"
+  },
+  {
+  "id": 10,
+  "nombre_aviador": "Frank Luke",
+  "victorias": 18,
+  "nacionalidad": "Estadounidense",
+  "fecha_nacimiento": "19/05/1897",
+  "fecha_muerte": "29/09/1918",
+  "avion_pilotado": "SPAD S.XIII",
+  "img":"src/assets/luke.jpg"
+  },
+  {
+  "id": 11,
+  "nombre_aviador": "Rickenbacker",
+  "victorias": 26,
+  "nacionalidad": "Estadounidense",
+  "fecha_nacimiento": "08/10/1890",
+  "fecha_muerte": "27/07/1973",
+  "avion_pilotado": "SPAD S.XIII",
+  "img":"src/assets/rickenbacker.jpg"
+  },
+  {
+  "id": 12,
+  "nombre_aviador": "Rafael Candel",
+  "victorias": 11,
+  "nacionalidad": "Española",
+  "fecha_nacimiento": "24/10/1897",
+  "fecha_muerte": "14/08/1938",
+  "avion_pilotado": "Nieuport 17",
+  "img":"src/assets/rafael.jpg"
+  },
+  {
+  "id": 13,
+  "nombre_aviador": "Francesco Baracca",
+  "victorias": 34,
+  "nacionalidad": "Italiana",
+  "fecha_nacimiento": "09/05/1888",
+  "fecha_muerte": "19/06/1918",
+  "avion_pilotado": "SPAD S.VII",
+  "img":"src/assets/francesco.jpg"
+  },
+  {
+  "id": 14,
+  "nombre_aviador": "Wilhelm Frankl",
+  "victorias": 20,
+  "nacionalidad": "Austrohúngara",
+  "fecha_nacimiento": "30/07/1893",
+  "fecha_muerte": "28/06/1918",
+  "avion_pilotado": "Albatros D.III",
+  "img":"src/assets/frankl.jpg"
+  },
+  {
+  "id": 15,
+  "nombre_aviador": "Ernst Udet",
+  "victorias": 62,
+  "nacionalidad": "Alemana",
+  "fecha_nacimiento": "26/04/1896",
+  "fecha_muerte": "17/11/1941",
+  "avion_pilotado": "Fokker D.VII",
+  "img":"src/assets/udet.jpg"
+  }
+  ]
+}
+  
